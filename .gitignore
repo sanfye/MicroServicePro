@@ -1,0 +1,7 @@
+/microservice-cloud-parent/.setting
+/microservice-cloud-parent/.setting/*
+/microservice-cloud-parent/*.project
+/microservice-cloud-parent/*.classpath
+/.metadata
+/RemoteSystemsTempFiles
+/Servers
